@@ -1,4 +1,4 @@
-# CTI-reports-datasets
+# CTI-reports-dataset
 
 This is Cyber Threat Intelligence reports datasets for Named Entity Recognition.
 
